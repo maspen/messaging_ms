@@ -1,3 +1,3 @@
-com\matt\ms\messaging\Application.class
-com\matt\ms\messaging\Receiver.class
-com\matt\ms\messaging\Sender.class
+com\matt\ms\auto_sender\AutoSender.class
+com\matt\ms\auto_sender\Config.class
+com\matt\ms\auto_sender\Application.class
