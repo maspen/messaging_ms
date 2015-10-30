@@ -1,0 +1,12 @@
+ON WINDOWS:
+
+starting mongo as client (to check records)
+> mongo
+
+starting mongo server
+> cd C:\Users\matt.aspen\Documents\_ws-boot-ms-docker\boot-mongo
+> mongod --dbpath data
+
+starting rabbit server
+> cd C:\_software\RabbitMQ_Server\rabbitmq_server-3.4.1\sbin
+> rabbitmq-server.bat
