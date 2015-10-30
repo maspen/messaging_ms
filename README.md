@@ -1,0 +1,1 @@
+set of micro services using Spring Boot, communicating using RabbitMQ server
