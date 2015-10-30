@@ -1,1 +1,3 @@
 set of micro services using Spring Boot, communicating using RabbitMQ server
+
+take a peek at the wiki for more info ... 
